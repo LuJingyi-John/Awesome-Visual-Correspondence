@@ -23,3 +23,6 @@
 
     *David G. Lowe.*
 
+1. **Histograms of Oriented Gradients for Human Detection.** CVPR 2005. [paper]([https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf](http://vision.stanford.edu/teaching/cs231b_spring1213/papers/CVPR05_DalalTriggs.pdf)http://vision.stanford.edu/teaching/cs231b_spring1213/papers/CVPR05_DalalTriggs.pdf)
+
+    *Navneet Dalal and Bill Triggs*
