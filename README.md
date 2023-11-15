@@ -21,7 +21,7 @@
 ### [Basic Models](#content)
 1. **Distinctive Image Features from Scale-Invariant Keypoints.** IJCV 2004. [paper](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 
-    *David G. Lowe.*
+    *David G. Lowe*
 
 1. **Histograms of Oriented Gradients for Human Detection.** CVPR 2005. [paper]([https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf](http://vision.stanford.edu/teaching/cs231b_spring1213/papers/CVPR05_DalalTriggs.pdf)http://vision.stanford.edu/teaching/cs231b_spring1213/papers/CVPR05_DalalTriggs.pdf)
 
