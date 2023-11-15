@@ -50,3 +50,9 @@
 
     *Christopher B. Choy, JunYoung Gwak, Silvio Savarese, Manmohan Chandraker*
 
+1. **Learning to Compare Image Patches via Convolutional Neural Networks** CVPR 2015. [paper](https://arxiv.org/abs/1504.03641)
+
+    *Sergey Zagoruyko, Nikos Komodakis*
+
+
+
