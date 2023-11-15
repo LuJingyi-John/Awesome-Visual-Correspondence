@@ -54,5 +54,20 @@
 
     *Sergey Zagoruyko, Nikos Komodakis*
 
+1. **Fully Convolutional Geometric Features** ICCV 2020. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.pdf)
 
+    *Christopher Choy, Jaesik Park, Vladlen Koltun*
+
+1. **D2-Net: A Trainable CNN for Joint Description and Detection of Local Features** CVPR 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)
+
+    *Mihai Dusmanu, Ignacio Rocco, Tomas Pajdla, Marc Pollefeys, Josef Sivic, Akihiko Torii, Torsten Sattler*
+
+### [Contrastive learning](#content)
+1. **Dense Contrastive Learning for Self-Supervised Visual Pre-Training** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dense_Contrastive_Learning_for_Self-Supervised_Visual_Pre-Training_CVPR_2021_paper.pdf)
+
+   *Xinlong Wang, Rufeng Zhang, Chunhua Shen, Tao Kong, Lei Li*
+
+1. **Unsupervised Learning of Dense Visual Representations** NeurIPS 2020. [paper](https://arxiv.org/abs/2011.05499)
+
+    *Pedro O. O. Pinheiro, Amjad Almahairi, Ryan Benmalek, Florian Golemo, Aaron C. Courville*
 
