@@ -19,7 +19,7 @@
 ## [Models](#content)   
 
 ### [Basic Models](#content)
-1. **Supervised Neural Networks for the Classification of Structures.** IEEE TNN 1997. [paper](https://ieeexplore.ieee.org/abstract/document/572108)
+1. **Distinctive Image Features from Scale-Invariant Keypoints.** IJCV 2004. [paper](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 
-    *Alessandro Sperduti and Antonina Starita.*
+    *David G. Lowe.*
 
