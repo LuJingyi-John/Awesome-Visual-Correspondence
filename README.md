@@ -54,6 +54,10 @@
 
     *Kai Han, Rafael S. Rezende, Bumsub Ham, Kwan-Yee K. Wong, Minsu Cho, Cordelia Schmid, Jean Ponce*
 
+1. **Convolutional neural network architecture for geometric matching.** CVPR 2017. [paper](https://arxiv.org/abs/1703.05593)
+
+    Ignacio Rocco, Relja Arandjelović, Josef Sivic
+
 1. **Neighbourhood Consensus Networks.** NeurIPS 2018. [paper](https://arxiv.org/abs/1810.10510)
 
    *Ignacio Rocco, Mircea Cimpoi, Relja Arandjelović, Akihiko Torii, Tomas Pajdla, Josef Sivic*
@@ -62,9 +66,17 @@
 
     *Daniel DeTone, Tomasz Malisiewicz, Andrew Rabinovich*
 
+1. **End-to-end weakly-supervised semantic alignment.** CVPR 2018. [paper](https://arxiv.org/abs/1712.06861)
+
+    Ignacio Rocco, Relja Arandjelović, Josef Sivic
+
 1. **D2-Net: A Trainable CNN for Joint Description and Detection of Local Features.** CVPR 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)
 
     *Mihai Dusmanu, Ignacio Rocco, Tomas Pajdla, Marc Pollefeys, Josef Sivic, Akihiko Torii, Torsten Sattler*
+
+1. **Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.** ICCV 2019. [paper](https://arxiv.org/abs/1908.06537)
+
+    *Juhong Min, Jongmin Lee, Jean Ponce, Minsu Cho*
 
 1. **Dynamic Context Correspondence Network for Semantic Alignment.** ICCV 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Dynamic_Context_Correspondence_Network_for_Semantic_Alignment_ICCV_2019_paper.pdf)
 
@@ -98,9 +110,19 @@
 
     *Seokju Cho, Sunghwan Hong, Seungryong Kim*
 
-1. **Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.** ICCV 2019. [paper](https://arxiv.org/abs/1908.06537)
+1. **DGC-Net: Dense Geometric Correspondence Network.** WACV 2018. [paper](https://arxiv.org/abs/1810.08393)
 
-    *Juhong Min, Jongmin Lee, Jean Ponce, Minsu Cho*
+    *Iaroslav Melekhov, Aleksei Tiulpin, Torsten Sattler, Marc Pollefeys, Esa Rahtu, Juho Kannala*
+
+1. **GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences.** CVPR 2020. [paper](https://arxiv.org/abs/1912.05524)
+
+    *Prune Truong, Martin Danelljan, Radu Timofte*
+
+1. **GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network.** NeurIPS 2020. [paper](https://arxiv.org/abs/2009.07823)
+
+    *Prune Truong, Martin Danelljan, Luc Van Gool, Radu Timofte*
+
+
 
 
 ### [Contrastive learning](#content)
