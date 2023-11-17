@@ -98,18 +98,9 @@
 
     *Seokju Cho, Sunghwan Hong, Seungryong Kim*
 
+1. **Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.** ICCV 2019. [paper](https://arxiv.org/abs/1908.06537)
 
-
-
-
-
-
-
-
-
-
-
-
+    *Juhong Min, Jongmin Lee, Jean Ponce, Minsu Cho*
 
 
 ### [Contrastive learning](#content)
