@@ -31,6 +31,10 @@
 
     *Herbert Bay, Tinne Tuytelaars, and Luc Van Gool*
 
+1. **BRIEF: Binary Robust Independent Elementary Features.** ECCV 2010. [paper](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_56)
+
+    *M Calonder, V Lepetit, C Strecha, P Fua*
+
 1. **DAISY: an efficient dense descriptor applied to wide-baseline stereo.** TPAMI 2010. [paper](https://pubmed.ncbi.nlm.nih.gov/20299707/)
    
     *Engin Tola, Vincent Lepetit, Pascal Fua*
