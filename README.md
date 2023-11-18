@@ -42,6 +42,10 @@
 
 
 ### [Deep learning features](#content)
+1. **Do Convnets Learn Correspondence?** NeurIPS 2014. [paper](https://arxiv.org/abs/1411.1091)
+
+    *Jonathan Long, Ning Zhang, Trevor Darrell*
+   
 1. **Learning to Compare Image Patches via Convolutional Neural Networks.** CVPR 2015. [paper](https://arxiv.org/abs/1504.03641)
 
     *Sergey Zagoruyko, Nikos Komodakis*
@@ -58,6 +62,10 @@
 
     Ignacio Rocco, Relja Arandjelović, Josef Sivic
 
+1. **FCSS: Fully Convolutional Self-Similarity for Dense Semantic Correspondence.** CVPR 2017. [paper](https://arxiv.org/abs/1702.00926)
+
+    *Seungryong Kim, Dongbo Min, Bumsub Ham, Sangryul Jeon, Stephen Lin, Kwanghoon Sohn*
+
 1. **Neighbourhood Consensus Networks.** NeurIPS 2018. [paper](https://arxiv.org/abs/1810.10510)
 
    *Ignacio Rocco, Mircea Cimpoi, Relja Arandjelović, Akihiko Torii, Tomas Pajdla, Josef Sivic*
@@ -66,9 +74,25 @@
 
     *Daniel DeTone, Tomasz Malisiewicz, Andrew Rabinovich*
 
+1. **Guided Semantic Flow.** ECCV 2018. [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730630.pdf)
+
+    *Sangryul Jeon, Dongbo Min, Seungryong Kim, Jihwan Choe, Kwanghoon Sohn*
+
 1. **End-to-end weakly-supervised semantic alignment.** CVPR 2018. [paper](https://arxiv.org/abs/1712.06861)
 
     Ignacio Rocco, Relja Arandjelović, Josef Sivic
+
+1. **DGC-Net: Dense Geometric Correspondence Network.** WACV 2018. [paper](https://arxiv.org/abs/1810.08393)
+
+    *Iaroslav Melekhov, Aleksei Tiulpin, Torsten Sattler, Marc Pollefeys, Esa Rahtu, Juho Kannala*
+
+1. **PARN: Pyramidal Affine Regression Networks for Dense Semantic Correspondence.** ECCV 2018. [paper](https://arxiv.org/abs/1807.02939)
+
+    *Sangryul Jeon, Seungryong Kim, Dongbo Min, Kwanghoon Sohn*
+
+1. **Recurrent Transformer Networks for Semantic Correspondence.** NeurIPS 2018. [paper](https://arxiv.org/abs/1810.12155)
+
+    *Seungryong Kim, Stephen Lin, Sangryul Jeon, Dongbo Min, Kwanghoon Sohn*
 
 1. **D2-Net: A Trainable CNN for Joint Description and Detection of Local Features.** CVPR 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)
 
@@ -82,6 +106,10 @@
 
     *Shuaiyi Huang, Qiuyue Wang, Songyang Zhang, Shipeng Yan, Xuming He*
 
+1. **SFNet: Learning Object-aware Semantic Correspondence.** CVPR 2019. [paper](https://arxiv.org/abs/1904.01810)
+
+    *Junghyup Lee, Dohyung Kim, Jean Ponce, Bumsub Ham*
+
 1. **Fully Convolutional Geometric Features.** ICCV 2020. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choy_Fully_Convolutional_Geometric_Features_ICCV_2019_paper.pdf)
 
     *Christopher Choy, Jaesik Park, Vladlen Koltun*
@@ -90,9 +118,29 @@
 
     *Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang*
 
+1. **GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences.** CVPR 2020. [paper](https://arxiv.org/abs/1912.05524)
+
+    *Prune Truong, Martin Danelljan, Radu Timofte*
+
 1. **Learning to Compose Hypercolumns for Visual Correspondence.** ECCV 2020. [paper](https://arxiv.org/abs/2007.10587)
 
     *Juhong Min, Jongmin Lee, Jean Ponce, Minsu Cho*
+
+1. **GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network.** NeurIPS 2020. [paper](https://arxiv.org/abs/2009.07823)
+
+    *Prune Truong, Martin Danelljan, Luc Van Gool, Radu Timofte*
+
+1. **Efficient neighbourhood consensus networks via submanifold sparse convolutions.** ECCV 2020. [paper](https://arxiv.org/abs/2004.10566)
+
+    *Ignacio Rocco, Relja Arandjelović, Josef Sivic*
+
+1. **Correspondence Networks with Adaptive Neighbourhood Consensus.** CVPR 2020. [paper](https://arxiv.org/abs/2003.12059)
+
+    *Shuda Li, Kai Han, Theo W. Costain, Henry Howard-Jenkins, Victor Prisacariu*
+
+1. **PatchMatch-Based Neighborhood Consensus for Semantic Correspondence.** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_PatchMatch-Based_Neighborhood_Consensus_for_Semantic_Correspondence_CVPR_2021_paper.pdf)
+
+    *Jae Yong Lee, Joseph DeGol, Victor Fragoso, Sudipta N. Sinha*
    
 1. **LoFTR: Detector-Free Local Feature Matching With Transformers.** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.pdf)
 
@@ -110,18 +158,28 @@
 
     *Seokju Cho, Sunghwan Hong, Seungryong Kim*
 
-1. **DGC-Net: Dense Geometric Correspondence Network.** WACV 2018. [paper](https://arxiv.org/abs/1810.08393)
+1. **Self-supervised Learning of Geometrically Stable Features Through Probabilistic Introspection.** CVPR 2018. [paper](https://arxiv.org/abs/1804.01552)
 
-    *Iaroslav Melekhov, Aleksei Tiulpin, Torsten Sattler, Marc Pollefeys, Esa Rahtu, Juho Kannala*
+    *David Novotny, Samuel Albanie, Diane Larlus, Andrea Vedaldi*
 
-1. **GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences.** CVPR 2020. [paper](https://arxiv.org/abs/1912.05524)
+1. **Dynamic Context Correspondence Network for Semantic Alignment.** ICCV 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Dynamic_Context_Correspondence_Network_for_Semantic_Alignment_ICCV_2019_paper.pdf)
 
-    *Prune Truong, Martin Danelljan, Radu Timofte*
+    *Shuaiyi Huang, Qiuyue Wang, Songyang Zhang, Shipeng Yan, Xuming He*
 
-1. **GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network.** NeurIPS 2020. [paper](https://arxiv.org/abs/2009.07823)
 
-    *Prune Truong, Martin Danelljan, Luc Van Gool, Radu Timofte*
 
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
