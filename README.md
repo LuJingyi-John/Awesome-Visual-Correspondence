@@ -136,6 +136,10 @@
 
     *Junghyup Lee, Dohyung Kim, Jean Ponce, Bumsub Ham*
 
+1. **Learning Correspondence from the Cycle-Consistency of Time.** CVPR 2019. [paper](https://arxiv.org/abs/1903.07593)
+
+    *Xiaolong Wang, Allan Jabri, Alexei A. Efros*
+
 1. **Dynamic Context Correspondence Network for Semantic Alignment.** ICCV 2019. [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Dynamic_Context_Correspondence_Network_for_Semantic_Alignment_ICCV_2019_paper.pdf)
 
     *Shuaiyi Huang, Qiuyue Wang, Songyang Zhang, Shipeng Yan, Xuming He*
@@ -172,6 +176,10 @@
 
     *Shuda Li, Kai Han, Theo W. Costain, Henry Howard-Jenkins, Victor Prisacariu*
 
+1. **Learning Feature Descriptors using Camera Pose Supervision.** ECCV 2020. [paper](https://arxiv.org/abs/2004.13324)
+
+    *Qianqian Wang, Xiaowei Zhou, Bharath Hariharan, Noah Snavely*
+
 1. **PatchMatch-Based Neighborhood Consensus for Semantic Correspondence.** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_PatchMatch-Based_Neighborhood_Consensus_for_Semantic_Correspondence_CVPR_2021_paper.pdf)
 
     *Jae Yong Lee, Joseph DeGol, Victor Fragoso, Sudipta N. Sinha*
@@ -179,6 +187,10 @@
 1. **Deep Matching Prior: Test-Time Optimization for Dense Correspondence.** ICCV 2021. [paper](https://arxiv.org/abs/2106.03090)
 
     *Sunghwan Hong, Seungryong Kim*
+
+1. **Multi-scale Matching Networks for Semantic Correspondence.** ICCV 2021. [paper](https://arxiv.org/abs/2108.00211)
+
+    *Dongyang Zhao, Ziyang Song, Zhenghao Ji, Gangming Zhao, Weifeng Ge, Yizhou Yu*
    
 1. **LoFTR: Detector-Free Local Feature Matching With Transformers.** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.pdf)
 
@@ -187,6 +199,10 @@
 1. **CATs: Cost Aggregation Transformers for Visual Correspondence.** NeurIPS 2021. [paper](https://arxiv.org/abs/2106.02520)
 
     *Seokju Cho, Sunghwan Hong, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, Seungryong Kim*
+
+1. **Space-Time Correspondence as a Contrastive Random Walk.** NeurIPS 2021. [paper](https://arxiv.org/abs/2006.14613)
+
+    *Allan Jabri, Andrew Owens, Alexei A. Efros*
 
 1. **Convolutional Hough Matching Networks.** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Min_Convolutional_Hough_Matching_Networks_CVPR_2021_paper.pdf)
 
@@ -204,6 +220,14 @@
 
     *Seokju Cho, Sunghwan Hong, Seungryong Kim*
 
+1. **TransforMatcher: Match-to-Match Attention for Semantic Correspondence.** CVPR 2022. [paper](https://arxiv.org/abs/2205.11634)
+
+    *Seungwook Kim, Juhong Min, Minsu Cho*
+
+1. **CoordGAN: Self-Supervised Dense Correspondences Emerge from GANs.** CVPR 2022. [paper](https://arxiv.org/abs/2203.16521)
+
+    *Jiteng Mu, Shalini De Mello, Zhiding Yu, Nuno Vasconcelos, Xiaolong Wang, Jan Kautz, Sifei Liu*
+
 1. **GAN-Supervised Dense Visual Alignment.** CVPR 2022. [paper](https://arxiv.org/abs/2112.05143)
 
     *William Peebles, Jun-Yan Zhu, Richard Zhang, Antonio Torralba, Alexei A. Efros, Eli Shechtman*
@@ -211,6 +235,10 @@
 1. **Learning Semantic Correspondence with Sparse Annotations.** ECCV 2022. [paper](https://arxiv.org/abs/2208.06974)
 
     *Shuaiyi Huang, Luyu Yang, Bo He, Songyang Zhang, Xuming He, Abhinav Shrivastava*
+
+1. **Semantic-Aware Fine-Grained Correspondence.** ECCV 2022. [paper](https://arxiv.org/abs/2207.10456)
+
+    *Yingdong Hu, Renhao Wang, Kaifeng Zhang, Yang Gao*
 
 1. **Deep ViT Features as Dense Visual Descriptors.** ECCVW 2022. [paper](https://arxiv.org/abs/2112.05814)
 
