@@ -223,6 +223,16 @@
 1. **A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence.** NeurIPS 2023. [paper](https://arxiv.org/abs/2305.15347)
 
     *Junyi Zhang, Charles Herrmann, Junhwa Hur, Luisa Polania Cabrera, Varun Jampani, Deqing Sun, Ming-Hsuan Yang*
+
+1. **SimSC: A Simple Framework for Semantic Correspondence with Temperature Learning.** arXiv 2023. [paper](https://arxiv.org/abs/2305.02385)
+
+    *Xinghui Li, Kai Han, Xingchen Wan, Victor Adrian Prisacariu*
+
+1. **SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching.** arXiv 2023. [paper](https://arxiv.org/abs/2310.17569)
+
+    *Xinghui Li, Jingyi Lu, Kai Han, Victor Prisacariu*
+
+
    
 ### [Contrastive learning](#content)
 1. **Dense Contrastive Learning for Self-Supervised Visual Pre-Training** CVPR 2021. [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dense_Contrastive_Learning_for_Self-Supervised_Visual_Pre-Training_CVPR_2021_paper.pdf)
