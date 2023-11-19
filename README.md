@@ -60,6 +60,10 @@
 
     *Kwang Moo Yi, Eduard Trulls, Vincent Lepetit, Pascal Fua*
 
+1. **Joint Recovery of Dense Correspondence and Cosegmentation in Two Images.** CVPR 2016. [paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Taniai_Joint_Recovery_of_CVPR_2016_paper.pdf)
+
+    *Tatsunori Taniai, Sudipta N. Sinha, Yoichi Sato*
+
 1. **SCNet: Learning Semantic Correspondence.** ICCV 2017. [paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Han_SCNet_Learning_Semantic_ICCV_2017_paper.pdf)
 
     *Kai Han, Rafael S. Rezende, Bumsub Ham, Kwan-Yee K. Wong, Minsu Cho, Cordelia Schmid, Jean Ponce*
@@ -211,6 +215,10 @@
 1. **Deep ViT Features as Dense Visual Descriptors.** ECCVW 2022. [paper](https://arxiv.org/abs/2112.05814)
 
     *Shir Amir, Yossi Gandelsman, Shai Bagon, Tali Dekel*
+
+1. **ASIC: Aligning Sparse in-the-wild Image Collections.** ICCV 2023. [paper](https://arxiv.org/abs/2303.16201)
+
+    *Kamal Gupta, Varun Jampani, Carlos Esteves, Abhinav Shrivastava, Ameesh Makadia, Noah Snavely, Abhishek Kar*
 
 1. **Emergent Correspondence from Image Diffusion.** NeurIPS 2023. [paper](https://arxiv.org/abs/2306.03881)
 
