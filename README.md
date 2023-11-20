@@ -70,7 +70,7 @@
 
 1. **Convolutional neural network architecture for geometric matching.** CVPR 2017. [paper](https://arxiv.org/abs/1703.05593)
 
-    Ignacio Rocco, Relja Arandjelović, Josef Sivic
+    *Ignacio Rocco, Relja Arandjelović, Josef Sivic*
 
 1. **FCSS: Fully Convolutional Self-Similarity for Dense Semantic Correspondence.** CVPR 2017. [paper](https://arxiv.org/abs/1702.00926)
 
@@ -94,7 +94,11 @@
 
 1. **End-to-end weakly-supervised semantic alignment.** CVPR 2018. [paper](https://arxiv.org/abs/1712.06861)
 
-    Ignacio Rocco, Relja Arandjelović, Josef Sivic
+    *Ignacio Rocco, Relja Arandjelović, Josef Sivic*
+
+1. **PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume.** CVPR 2018. [paper](https://arxiv.org/abs/1709.02371)
+
+    *Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz*
 
 1. **DGC-Net: Dense Geometric Correspondence Network.** WACV 2018. [paper](https://arxiv.org/abs/1810.08393)
 
