@@ -160,6 +160,10 @@
 
     *Yanbin Liu, Linchao Zhu, Makoto Yamada, Yi Yang*
 
+1. **Dual-Resolution Correspondence Networks.** NeurIPS 2020. [paper](https://arxiv.org/abs/2006.08844)
+
+    *Xinghui Li, Kai Han, Shuda Li, Victor Adrian Prisacariu*
+
 1. **GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences.** CVPR 2020. [paper](https://arxiv.org/abs/1912.05524)
 
     *Prune Truong, Martin Danelljan, Radu Timofte*
